@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Sue Highmoor](http://www.calvinandhobbes.com/wp-content/uploads/2016/09/hobbes.png)
